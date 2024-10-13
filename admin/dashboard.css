@@ -1,0 +1,16 @@
+body{
+    background-color:  #D2D6DE;
+}
+.navbar-custom {
+    background-color: #3C8DBC;
+}
+.navbar-custom .navbar-nav .nav-link {
+    color: white;
+}
+.navbar-custom .navbar-brand {
+    color: white;
+}
+.section-heading {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
