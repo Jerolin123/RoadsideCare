@@ -1,0 +1,134 @@
+body{
+    margin:0;
+    padding:0;
+    font-family:'Courier New', Courier, monospace;
+}
+   
+ 
+.nav
+{
+    display:flex;
+    align-items: center;
+    padding:10px;
+    background-color: #f6f2f2;
+
+}
+.nav h2{
+    
+    margin-right:500px;
+    color:#DBC65D;
+    font-size:35px;
+}
+.nav a{
+    padding:0px 25px;
+    text-decoration: none;
+}
+.nav a b{
+    color:red;
+    font-size: 20px;
+}
+.b
+{
+    height:250px;
+    text-align: center;
+    background-image:url("images/1.jpg");
+
+}
+.b h1{
+    color:white;
+    padding:100px 100px 100px 100px;
+   
+}
+
+
+.form-container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.form-container h2 {
+    text-align: center;
+}
+.form-group {
+    margin-bottom: 15px;
+}
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+.form-group input,
+.form-group textarea {
+    width: 70%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.form-group textarea {
+    resize: vertical;
+    height: 150px;
+}
+.form-group button {
+    display: block;
+    width: 20%;
+    padding: 10px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.form-group button:hover {
+    background-color: darkred;
+}
+.form-group-container {
+    display: flex;
+    justify-content: space-between;
+}
+.form-group-container .form-group {
+    flex: 1;
+    margin-right: 10px;
+}
+.form-group-container .form-group:last-child {
+    margin-right: 0;
+}
+.c .ca .cb form{
+    margin-left:110px;
+}
+.c h1{
+    color:#DBC65D;
+    margin-left:180px;
+}
+#ha
+{
+    padding-left:0px;
+    margin-top:-40px;
+}
+.ee
+{
+    height:700px;
+    
+    background-color: black;
+   }
+   .ee .e .f h2
+   {
+       color:white;;
+   }
+   .ee .e .f 
+   {
+       color:white;
+       margin-top:89px;
+   }
+   .ee .e .h
+   {
+       padding-bottom: 250px;
+       margin-top: 89px;
+   }
+   .ee .e .aa
+   {
+       color:white;
+       margin-top:89px;
+   }
